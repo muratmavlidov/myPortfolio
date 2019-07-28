@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/github.com/myPortfolio/static/css/main.09655e2d.chunk.css",
-    "main.js": "/github.com/myPortfolio/static/js/main.d4c50ffd.chunk.js",
-    "main.js.map": "/github.com/myPortfolio/static/js/main.d4c50ffd.chunk.js.map",
-    "runtime~main.js": "/github.com/myPortfolio/static/js/runtime~main.52ad3a9f.js",
-    "runtime~main.js.map": "/github.com/myPortfolio/static/js/runtime~main.52ad3a9f.js.map",
-    "static/css/2.60a6b8e0.chunk.css": "/github.com/myPortfolio/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.a74805d8.chunk.js": "/github.com/myPortfolio/static/js/2.a74805d8.chunk.js",
-    "static/js/2.a74805d8.chunk.js.map": "/github.com/myPortfolio/static/js/2.a74805d8.chunk.js.map",
-    "index.html": "/github.com/myPortfolio/index.html",
-    "precache-manifest.850bd99d999b6516bf8a6fbec8380632.js": "/github.com/myPortfolio/precache-manifest.850bd99d999b6516bf8a6fbec8380632.js",
-    "service-worker.js": "/github.com/myPortfolio/service-worker.js",
-    "static/css/2.60a6b8e0.chunk.css.map": "/github.com/myPortfolio/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.09655e2d.chunk.css.map": "/github.com/myPortfolio/static/css/main.09655e2d.chunk.css.map"
+    "main.css": "/static/css/main.09655e2d.chunk.css",
+    "main.js": "/static/js/main.d4c50ffd.chunk.js",
+    "main.js.map": "/static/js/main.d4c50ffd.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.a74805d8.chunk.js": "/static/js/2.a74805d8.chunk.js",
+    "static/js/2.a74805d8.chunk.js.map": "/static/js/2.a74805d8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0acc95e38b3bdf7ad0604d913d79aec4.js": "/precache-manifest.0acc95e38b3bdf7ad0604d913d79aec4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.09655e2d.chunk.css.map": "/static/css/main.09655e2d.chunk.css.map"
   }
 }
