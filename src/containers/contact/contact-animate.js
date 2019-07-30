@@ -12,11 +12,9 @@ function animateContact() {
   tl
     .from(contactPage, .5, { opacity: 0 })
     .from(line, .7, { width: 0, y: -10, opacity: 0 })
-    // .from(contactAvatar, .8, {opacity: 0, rotationX: 180}, .2)
     .from(contactAvatar, 1, {
       opacity: 0,
       rotation: -180,
-      rotationY: 180,
       rotationY: 180,
       borderRadius: '50%'
     }, .2)

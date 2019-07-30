@@ -15,7 +15,7 @@ class App extends Component {
     return (
       <div style={{height: '100vh', position: 'relative'}}>
         <Layout fixedHeader>
-          <Header className="header-color" title={<Link to="/" style={{textDecoration: 'none'}}>
+          <Header className="header-color" title={<Link to="/" style={{textDecoration: 'none'}} >
                   <span className="header-title"><strong>M</strong>avlidov <strong>M</strong></span></Link>}>
             <Navigation>
                 <Link to="/resume" className="nav-link">Резюме</Link>
@@ -24,7 +24,8 @@ class App extends Component {
                 <Link to="/contact" className="nav-link">Контакты</Link>
             </Navigation>
           </Header>
-          <Drawer title="Title">
+          <Drawer title={<Link to="/" style={{textDecoration: 'none'}} >
+                  <span className="header-title"><strong>M</strong>avlidov <strong>M</strong></span></Link>}>
             <Navigation>
                 <Link to="/resume">Резюме</Link>
                 <Link to="/aboutme">Обо мне</Link>
