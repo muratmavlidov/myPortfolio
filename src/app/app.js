@@ -19,16 +19,14 @@ class App extends Component {
                   <span className="header-title"><strong>M</strong>avlidov <strong>M</strong></span></Link>}>
             <Navigation>
                 <Link to="/resume" className="nav-link">Резюме</Link>
-                <Link to="/aboutme" className="nav-link">Обо мне</Link>
                 <Link to="/projects" className="nav-link">Проекты</Link>
                 <Link to="/contact" className="nav-link">Контакты</Link>
             </Navigation>
           </Header>
-          <Drawer title={<Link to="/" style={{textDecoration: 'none'}} >
-                  <span className="header-title"><strong>M</strong>avlidov <strong>M</strong></span></Link>}>
+          <Drawer className="drawer" title={<Link to="/" style={{textDecoration: 'none'}} >
+                  <span className="drawer-title"><strong>M</strong>avlidov <strong>M</strong></span></Link>}>
             <Navigation>
                 <Link to="/resume">Резюме</Link>
-                <Link to="/aboutme">Обо мне</Link>
                 <Link to="/projects">Проекты</Link>
                 <Link to="/contact">Контакты</Link>
             </Navigation>

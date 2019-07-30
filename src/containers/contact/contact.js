@@ -51,7 +51,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent className="item-content">
                     <i className="fa fa-telegram"></i>
-                    @mavlidov/t.me
+                    Murat_Mavlidov
                   </ListItemContent>
                 </ListItem>
               </List>
